@@ -1,0 +1,14 @@
+{
+  "snr_noisy": -5.093949317932129,
+  "snr_restored": 9.645059585571289,
+  "snr_improvement": 14.739008903503418,
+  "correlation_noisy": 0.48704928159713745,
+  "correlation_restored": 0.9441806674003601,
+  "rmse_noisy": 1.7976182699203491,
+  "rmse_restored": 0.32941779494285583,
+  "mae_noisy": 1.1286382675170898,
+  "mae_restored": 0.19308751821517944,
+  "n_params": 2381699.0,
+  "total_train_windows": 39293.0,
+  "epochs_trained": 86.0
+}

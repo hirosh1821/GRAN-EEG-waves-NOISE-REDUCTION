@@ -1,0 +1,7 @@
+BCI Competition IV/
+sleep-edf-database-expanded-1.0.0/
+checkpoints/
+TRAIN_LOG.txt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
